@@ -1,0 +1,7 @@
+.container-admin{
+    width: 150px;
+    height: 150px;
+}
+.bg-admin{
+    background-image: linear-gradient(to top, #ebbba7 0%, #cfc7f8 100%)!important;
+}
